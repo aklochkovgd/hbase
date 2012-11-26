@@ -142,4 +142,12 @@
     version is X.X.X-SNAPSHOT"
     </description>
   </property>
+  <property>
+    <name>regionserver.health.script.timeout</name>
+    <value>30000</value>
+  </property>
+  <property>
+    <name>regionserver.health.script.frequency</name>
+    <value>40000</value>
+  </property>
 </configuration>
